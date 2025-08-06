@@ -12,7 +12,7 @@ Pillow==9.4.0
 tokenizers==0.13.2
 torch==1.13.1
 torchvision==0.14.1
-transformers==4.42.4
+transformers==4.53.0
 xformers==0.0.16
 safetensors==0.3.3
 diffusers==0.28.2
